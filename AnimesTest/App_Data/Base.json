@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Dragon Ball Super",
+    "episodes": 120
+  },
+  {
+    "id": 2,
+    "name": "Naruto Shippuden",
+    "episodes": 490
+  },
+  {
+    "id": 3,
+    "name": "One Piece",
+    "episodes": 885
+  },
+  {
+    "id": 4,
+    "name": "Bleach",
+    "episodes": 480
+  },
+  {
+    "id": 5,
+    "name": "Dragon Ball Z",
+    "episodes": 240
+  },
+  {
+    "id": 6,
+    "name": "Naruto",
+    "episodes": 220
+  },
+  {
+    "id": 7,
+    "name": "Death Note",
+    "episodes": 48
+  }
+]
